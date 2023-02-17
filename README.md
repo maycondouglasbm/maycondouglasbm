@@ -7,6 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycondouglasbm&layout=compact&hide_border=true&title_color=00FFFF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
+ ### Contact:
 <div align="center"> 
 <a href="https://instagram.com/maycondouglasbm10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:maycondouglasbm10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

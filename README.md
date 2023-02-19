@@ -29,5 +29,11 @@
 :notes: Now Playing:
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwsfmameiimyqucpaskfbdvoba&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31vwsfmameiimyqucpaskfbdvoba&redirect=true)
+  
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+        <img alt="thank you for visiting my profile" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=0000FFE&center=true&vCenter=true&width=435&lines=Thank+you+for+your+visiting+my+profile!" >
+    </a>
+</div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>

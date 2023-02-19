@@ -26,4 +26,6 @@
 <br>
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwsfmameiimyqucpaskfbdvoba&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31vwsfmameiimyqucpaskfbdvoba&redirect=true)
+
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>

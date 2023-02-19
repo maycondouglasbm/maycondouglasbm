@@ -32,7 +32,7 @@
   
   <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thank you for visiting my profile" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=0000FFE&center=true&vCenter=true&width=435&lines=Thank+you+for+your+visiting+my+profile!" >
+        <img alt="thanks for visite" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=0000FFE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 

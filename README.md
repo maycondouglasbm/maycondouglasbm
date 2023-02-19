@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maycondouglasbm&layout=compact&hide_border=true&title_color=00FFFF&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
- ### Contact:
+ ### 📱Contact/Social Media:
 <div align="center"> 
 <a href="https://instagram.com/maycondouglasbm10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:maycondouglasbm10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -16,7 +16,7 @@
 <a href=https://linktr.ee/maycondouglasbm10 target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" style="borger-radius: 30px" target="_blank"></a>
   </div>
   
-  ### Studying in this moment:
+  ### 📚Studying in this moment:
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 
@@ -26,6 +26,8 @@
 <br>
 </div>
 
+:notes: Now Playing:
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31vwsfmameiimyqucpaskfbdvoba&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31vwsfmameiimyqucpaskfbdvoba&redirect=true)
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
